@@ -1,14 +1,8 @@
-f WOORDREGISTER
-EDAM sans
-re it 3
-oa reren tf mer
-Î
-S
-Î.
-2.
-3.
-ping ——, pir
-INRICHTING
+<text>
+	WOORDREGISTER
+
+<front>
+<div type="INRICHTING">	INRICHTING
 De volgorde der trefwoorden is die van ’t Lat. alphabet. Onder s is ook opgenomen c (sa saga).
 Voor de volgorde telt de aspiratie van bh, ch, dh, dh, gh, jh, kh, pb, th, th, niet mee, dus bv. komt addhi vóór adëg, daar voor addhi geldt ADD en voor adèg ADE.
 Alle eigennamen van personen, plaatsen, rivieren, enz. zijn met een hoofdletter geschreven. Zo bv. wèl Air gajah, Air garuda, maar niet air haji, omdat dit een aanduiding van een groep functionarissen is.
@@ -24,6 +18,7 @@ namen. Skt woorden zijn echter altijd cursief gedrukt.
 Bij eigennamen van personen wordt, als het dorpsbeambten betreft, de betrokken dorpsnaam tussen haakjes toegevoegd; geldt het echter ambtenaren van het centrale gezagsapparaat, zoals de adhikarana (pura), senäpati, mafiuratang äjfiä, enz, dan niet. Zie bv. Ájfiäna.
 Woorden, die men onder een aanvangsklinker niet aantreft, zoeke men ook onder h; en omgekeerd.
 Opzichzelf was het spellingssysteem van het OB zeer streng en con- sequent, doch de copiisten maakten dikwijls spelfouten.
+</div>
 Et daan <
 ee
 FEAR we
@@ -35,8 +30,9 @@ Capp Casp PI I Casp INI cf
 Cl
 Corr
 Ind Jav
-— 206 —
-LIJST VAN AFKORTINGEN gebruikt in het Woordregister. overeenkomstig; aldus ook adhikäâra of adhikerana afleiding afwijkend Angkola (en Mandailing) Bataks (het Wdb van Eggink in VGB 72. 5, 1936) Balisch Buddhistisch; z o Cw betekent; bett —= betekenissen bepaald Berg, De middeljavaansche Historische traditie, acad. proef- schrift, Leiden 1927. Bijdragen tot de Taal-, Land- en Volkenkunde van het Ko- ninklijk Instituut te ’s Gravenhage Buginees (het Wdb Matthes uit 1874) Cappeller, A Sanskrit English Dictionary (1891) de Casparis, Inscripties uit de Cailendra-tijd (Serie: Prasasti Indonesia I, 1950) de Casparis, Oorkonde uit het Singosarische in: Inscripties van Ned. Indië, afl. 1 (1940) p. 50 sag. vergelijk (ook) De Clercq, Nieuw plantkundig woordenboek voor Ned. Indië, 2e druk, 1927. (Voor de betreffende plantnamen wordt naar het nummer aldaar verwezen) corrupt (hetzij de hele oorkonde, zoals bv. OJ 357; hetzij de geciteerde locus) Caka jaar Ciwaïtisch (opp: Bd = Buddhistisch) dang äcärya (titel v Cw geestelijken) Dajaks dissertatie dang upädhyäya (titel v Bd geestelijken) edicten (oorkonden) Engels functionnaris Goris, Aantekeningen over Oost Lombok (TBG 76, 1936, p. 196 sqq.) Goris, Een plechtige bede in een eeuwenoud heiligdom (In- donesië II, 1948/49, p. 1 sag.) Goris, Beknopt Sasaksch Nederlandsch Woordenboek (pu- blicatie Kirtya) 1939 Indonesisch (opp: Skt = Sanskrit) Javaans
+<div type="LIJST VAN AFKORTINGEN">
+	— 206 —
+LIJST VAN AFKORTINGEN gebruikt in het Woordregister. overeenkomstig; aldus ook adhikäâra of adhikerana afleiding afwijkend Angkola (en Mandailing) Bataks (het Wdb van Eggink in VGB 72. 5, 1936) Balisch Buddhistisch; z o Cw betekent; bett —= betekenissen bepaald Berg, De middeljavaansche Historische traditie, acad. proef- schrift, Leiden 1927. Bijdragen tot de Taal-, Land- en Volkenkunde van het Ko- ninklijk Instituut te ’s Gravenhage Buginees (het Wdb Matthes uit 1874) Cappeller, A Sanskrit English Dictionary (1891) de Casparis, Inscripties uit de Cailendra-tijd (Serie: Prasasti Indonesia I, 1950) de Casparis, Oorkonde uit het Singosarische in: Inscripties van Ned. Indië, afl. 1 (1940) p. 50 sag. vergelijk (ook) De Clercq, Nieuw plantkundig woordenboek voor Ned. Indië, 2e druk, 1927. (Voor de betreffende plantnamen wordt naar het nummer aldaar verwezen) corrupt (hetzij de hele oorkonde, zoals bv. OJ 357; hetzij de geciteerde locus) Caka jaar Ciwaïtisch (opp: Bd = Buddhistisch) dang äcärya (titel v Cw geestelijken) Dajaks dissertatie dang upädhyäya (titel v Bd geestelijken) edicten (oorkonden) Engels functionnaris Goris, Aantekeningen over Oost Lombok (TBG 76, 1936, p. 196 sqq.) Goris, Een plechtige bede in een eeuwenoud heiligdom (In- donesië II, 1948/49, p. 1 sag.) Goris, Beknopt Sasaksch Nederlandsch Woordenboek (pu- blicatie Kirtya) 1939 Ind Indonesisch (opp: Skt = Sanskrit) Jav Javaans
 Jolly RS
 Ju
 KBG Korn Ad Korn T
@@ -115,7 +111,10 @@ Wilkinson, A Malay-English Dictionary, Mytilene 1932 zie onder (zie ook)
 plus (toegevoegd woord)
 is ongeveer gelijk aan
 wordt tot
+</div>
+</front>
 — 500 —
+<body>
 aba (Ind) brengen; vaba{ha), door hem (haar) ingebracht; frequent bij erfenisverdeling, sinds 001 ook yawa(fa) geschreven; mangawa: OB 304. 4a. 4
 abang (Ind) aquaduct (NB abangan) z o Air hawang.
 abt (Ind) krachtig, met een zwaai slaan; ang— OJ 357 corr ; later frequent (onder de delicten).
@@ -2789,3 +2788,5 @@ Yatna (Skt); OJ 352.5b4: si — (Baturan).
 yäwat (Skt) zo groot (veel, lang) als; correl. van täwat; sinds OJ 352 in de capatha. yaywin, z o ayu.
 ye (Ind) water ; 001 : tukad — ; grens v partapanân Cintamani. yogya (Skt) gepast; geschikt; OB 304.1b.5; OJ 305.8b.2; OJ 353.2a.1. Yukti (Skt); OJ 355; 356: (samgat)asba pu —.
 yumu: (Ind) pron. pers. 2e pers: gijlieden. De vaste openingsformule der originele OB oorkonden luidt: — pakatahu sarbwa: ’gij allen moet weten”. De varianten hiervan luiden: O01l:kiha; 002: kumpi addhi; 003-004: kumpi dyah sanät; 005: sanät; 006: dyah sanät kumära; 101, 105: talaga; 106-108, 110: kumpi anug. Hieruit volgt, dat de woorden voor „ouderen” luiden : kiha, kumpi, sanät; die voor jongeren: adhi, dyah, kumâra, anug, terwijl het woord talaga moeilijk verklaarbaar is. Uitz: De oorkonden 007 is aan het begin defect; 102 is van een later type; 103 (zuil van Blandjong) wijkt geheel af; in 104 ontbreekt elke toevoeging nopens oud of jong; 109 is een bedorven copie.
+</body>
+</text>
