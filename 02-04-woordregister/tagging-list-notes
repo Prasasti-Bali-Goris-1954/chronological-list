@@ -1,0 +1,20 @@
+<noteGrp>
+	<note type="gram" xml:lang="nl">...</note>
+	<note source="deepl" type="gram" xml:lang="en">...</note>
+</noteGrp>	grammatical note	for a list of label for the note type can be based on the @type attribute as follows: https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-usg.html; the source attribute is the translation engine used
+
+<sense n="...">
+	<cit type="translation" xml:lang="nl"><q>...</q><cit type="translation" xml:lang="en"><q generatedBy="deepl">...</q></cit></cit>
+	
+	(OPTIONAL)<usg type="hint" xml:lang="nl">...</usg>
+	(OPTIONAL)<usg source="deepl" type="hint" xml:lang="en">...</usg>
+</sense>
+
+# label/comment for example
+<cit type="example">
+	<lbl xml:lang="nl">bovendien
+		<lbl source="deepl" type="translation" xml:lang="en">English translation of NL label</lbl>
+	</lbl>
+	: 
+	<q>~ angén</q>
+</cit>

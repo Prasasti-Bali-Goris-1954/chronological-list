@@ -2607,8 +2607,81 @@ ulah (Ind) bewegen; 1) z. bewegen (als) — z. gedragen; 2) veranderen ; in ed i
 ulan (Ind) verzorgen; verplegen; slechts in 001, waar het OB vertaling is van Skt satra, hospitium.
 ulap (Ind) in ed bet onz (vgl T I 291 s.v. II); slechts 104.3a.5: tani kasid- dhan hulu kayuna, pang—êën pangustausten ditu pamwitén me ya di banwa.
 ult (Ind) kneden; slechts 302.4a.2: mang— pamawaryyanya (text onz: mangulit, ond) ; z o pamawaryyan.
-uiih 1 (Ind) een woord, dat als ’verbum” en als “prepositie” optreedt: 1) (ver) krijgen; 2) door; in alle ed zeer frequent als 2); bovendien: — angén, frequent in de staande uitdr. : suhunan tanggungan — humatur drbyana prakäâra, maruhani dua bhagi haturangna, baebini habhagi haturangha; waar men wellicht aan een z.g. substantief-constructie moet denken, dus: ”s.t. is de wijze, waarop het bezit, enz wordt aangeboden, GER Ht In 003 en 004 op deze plaats: ulih!; in OJ 305. 2b.4;yan polih kuda ika; z o ulih II...
-ulih II (Ind) terugkeren, huiswaarts gaan; 3a.2 : angkèn mâgha mahânawami di lakwan di — an; — ana: 304.4b.3 (text zeer ond); mar-—: 002.1b. 5: ana — buninya, opp ana cheda; z o bunin; pusita.
+<entry xml:id="uliḥ.1">
+	<form>
+		<orth>uliḥ</orth>
+	</form>
+	<hom>1</hom>
+	<etym>
+		<lang>(Ind)</lang>
+	</etym>
+	<noteGrp>
+		<note type="gram" xml:lang="nl">een woord, dat als “verbum” en als “prepositie” optreedt</note>
+		<note source="deepl" type="gram" xml:lang="en">a word that functions both as a ‘verb’ and as a ‘preposition’</note>
+	</noteGrp>: 
+	
+	<sense n="1">
+		1) 
+		<cit type="translation" xml:lang="nl">
+			<q>(ver)krijgen</q>
+			<cit type="translation" xml:lang="en">
+				<q generatedBy="deepl">receive, obtain</q></cit>
+		</cit>
+	</sense>; 
+
+	<sense n="2">
+		2) 
+		<cit type="translation" xml:lang="nl">
+			<q>door</q>
+			<cit type="translation" xml:lang="en">
+				<q generatedBy="deepl">by</q></cit>
+		</cit>; 
+		<usg type="hint" xml:lang="nl">in alle ed zeer frequent als 2)</usg>
+		<usg source="deepl" type="hint" xml:lang="en">in all editions very frequently as 2)</usg>
+	</sense>; 
+	<cit type="example">
+		<lbl xml:lang="nl">
+			bovendien
+			<lbl source="deepl" type="translation" xml:lang="en">furthermore</lbl></lbl>: 
+		<q>~ angén</q></cit>, 
+	<cit type="example">
+		<lbl xml:lang="nl">
+			frequent in de staande uitdr.
+			<lbl source="deepl" type="translation" xml:lang="en">frequently in the present tense</lbl></lbl>: 
+		<q>suhunan tanggungan ~ humatur dṛbyaña prakāra, maruhani dua bhagi haturangña, babini habhagi haturangña</q>
+	</cit>; 
+	<cit type="example">
+		<lbl xml:lang="nl">
+			waar men wellicht aan een z.g. substantief-constructie moet denken, dus: ”s.t. is de wijze, waarop het bezit, enz wordt aangeboden, nl. ..................
+			<lbl source="deepl" type="translation" xml:lang="en">where one might think of a so-called noun phrase, i.e.: “... is the manner in which the possession, etc. is presented, namely ...................</lbl>
+		</lbl>
+		<bibl>In 003 en 004 op deze plaats</bibl>: 
+		<q>ulih!</q></cit>; 
+	<cit type="example">
+		<bibl>
+			in 
+			<lang>OJ</lang>
+			<biblScope unit="no.">305</biblScope>
+			.
+			<biblScope unit="plate">2b</biblScope>
+			.
+			<biblScope unit="line">4</biblScope></bibl>; 
+		<q>yan poliḥ kuda ika</q></cit>; 
+	<xr>
+		z o 
+		<ptr target="#uliḥ.2">uliḥ II</ptr></xr>...
+</entry>
+<entry xml:id="uliḥ.2">
+	<form>
+		<orth>uliḥ</orth>
+	</form>
+	<hom>2</hom>
+	<etym>
+		<lang>(Ind)</lang>
+	</etym>
+	terugkeren, huiswaarts gaan; 3a.2 : angkèn mâgha mahânawami di lakwan di — an; — ana: 304.4b.3 (text zeer ond); mar-—: 002.1b. 5: ana — buninya, opp ana cheda; z o bunin; pusita.
+</entry>
+
 umah (Ind) huis; sinds OJ 303, vervangt OB: rumah ; — ; momah ; huizen; wonen; pomahan, behuizing; in OJ 305.943: pomahumah; in OJ 353. 2b.4; 431.3a.6 : somah — per huis.
 umanis (Ind) n v d le dag der pafcawâära.
 ufia (Ind) 1) alle; 2) op” (vgl Duits ”alle”) ; OB 431.4b.3.
