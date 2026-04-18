@@ -30,7 +30,7 @@ Capp Casp PI I Casp INI cf
 Cl
 Corr
 Ind Jav
-<div type="LIJST VAN AFKORTINGEN">
+<div type="glossary">
 	— 206 —
 LIJST VAN AFKORTINGEN gebruikt in het Woordregister. overeenkomstig; aldus ook adhikäâra of adhikerana afleiding afwijkend Angkola (en Mandailing) Bataks (het Wdb van Eggink in VGB 72. 5, 1936) Balisch Buddhistisch; z o Cw betekent; bett —= betekenissen bepaald Berg, De middeljavaansche Historische traditie, acad. proef- schrift, Leiden 1927. Bijdragen tot de Taal-, Land- en Volkenkunde van het Ko- ninklijk Instituut te ’s Gravenhage Buginees (het Wdb Matthes uit 1874) Cappeller, A Sanskrit English Dictionary (1891) de Casparis, Inscripties uit de Cailendra-tijd (Serie: Prasasti Indonesia I, 1950) de Casparis, Oorkonde uit het Singosarische in: Inscripties van Ned. Indië, afl. 1 (1940) p. 50 sag. vergelijk (ook) De Clercq, Nieuw plantkundig woordenboek voor Ned. Indië, 2e druk, 1927. (Voor de betreffende plantnamen wordt naar het nummer aldaar verwezen) corrupt (hetzij de hele oorkonde, zoals bv. OJ 357; hetzij de geciteerde locus) Caka jaar Ciwaïtisch (opp: Bd = Buddhistisch) dang äcärya (titel v Cw geestelijken) Dajaks dissertatie dang upädhyäya (titel v Bd geestelijken) edicten (oorkonden) Engels functionnaris Goris, Aantekeningen over Oost Lombok (TBG 76, 1936, p. 196 sqq.) Goris, Een plechtige bede in een eeuwenoud heiligdom (In- donesië II, 1948/49, p. 1 sag.) Goris, Beknopt Sasaksch Nederlandsch Woordenboek (pu- blicatie Kirtya) 1939 Ind Indonesisch (opp: Skt = Sanskrit) Jav Javaans
 Jolly RS
@@ -42,7 +42,7 @@ Mngkb n (v) NB
 NJ NK
 OB OJ
 OJL oJo OJO Br
-OJo CS onb ond onz opp OV Pbc Ag
+OJo CS onb ond onz  OV Pbc Ag
 Pig
 — 207 —
 Jolly, Recht und Sitte (Grundriss der Indo-Arische Philologie II 8) Strassburg 1896
@@ -69,7 +69,15 @@ Oorkonden van Java, uitgave Brandes-Krom, VBG. 60 (1913)
 Cohen Stuart, Kawi Oorkonden (1875) onbekend
 onduidelijk
 onzeker
-tegengestelde
+<entryFree>
+	<abbr>opp</abbr>
+	<def xml:lang="nl">tegengestelde
+		<cit source="deepl" type="translation" xml:lang="en">opposite</cit>
+	</def>
+	<bibl>
+		<biblScope unit="page">207</biblScope>
+	</bibl>
+</entryFree>
 Oudheidkundig Verslag
 R. Ng. Poerbatjaraka, Agastya in de Archipel (acad. proef- schrift, Leiden 1926)
 Pigeaud, Javaans-Nederlands Handwoordenboek (1938) (waarop het pagina-cijfer volgt)
@@ -107,10 +115,36 @@ Teeuw, Het Bhomakâäwya, acad. proefschrift, Utrecht 1946 variant(en)
 Verhandelingen Koninklijk Bataviaasch Genootschap vergelijk
 Van Naerssen, Oudjavaansche Oorkonden in Duitsche en Deensche Verzamelingen, acad. proefschrift, Leiden 1941 Van Naerssen, Twee koperen oorkonden van Balitung in het Kol, Instituut te Amsterdam, (Bijdr. Kon. Instituut, den Haag, 95 (1937), p. 441 sag. Van Stein Callenfels, De rechten der vorsten op Bali (In- donesië I, 1947-48, p. 193 sad.)
 Woordenboek
-Wilkinson, A Malay-English Dictionary, Mytilene 1932 zie onder (zie ook)
-plus (toegevoegd woord)
-is ongeveer gelijk aan
-wordt tot
+Wilkinson, A Malay-English Dictionary, Mytilene 1932 
+<entryFree>
+	<abbr>z o</abbr>
+	<def xml:lang="nl">zie onder (zie ook)
+		<cit source="deepl" type="translation" xml:lang="en">see below (see also)</cit>
+	</def>
+	<bibl><biblScope unit="page">208</biblScope></bibl>
+</entryFree>
+<entryFree>
+	<abbr>+</abbr>
+	<def xml:lang="nl">plus (toegevoegd woord)
+		<cit source="deepl" type="translation" xml:lang="en">plus (added word)</cit>
+	</def>
+	<bibl><biblScope unit="page">208</biblScope></bibl>
+</entryFree>
+<entryFree>
+	<abbr>=±</abbr>
+	<def xml:lang="nl">is ongeveer gelijk aan
+		<cit source="deepl" type="translation" xml:lang="en">is approximately equal to</cit>
+	</def>
+	<bibl><biblScope unit="page">208</biblScope></bibl>
+</entryFree>
+<entryFree>
+	<abbr>></abbr>
+	<def xml:lang="nl">wordt tot
+		<cit source="deepl" type="translation" xml:lang="en">becomes</cit></def>
+	<bibl>
+		<biblScope unit="page">208</biblScope>
+	</bibl>
+</entryFree>
 </div>
 </front>
 — 500 —
@@ -217,7 +251,7 @@ ampung (Ind) kinderloos; z o angca, krängan, uparata; syn. OJ tumpur.
 amrta (Skt) onsterfelijk; godheid; nectar (ambrozijn); wijwater; OB 351626: anugraha titisyan —; OJ 431.3a.l, idem.
 amuk (Ind) (in razernij) vermoorden; OJ 357 (corr) ; later frequent (onder de delicten).
 an (Ind) 1) indien; 2) dat; vgl. Eng if; z o yan; vervangt sinds OJ 305 het OB ana.
-ana (Ind) indien; — gräma, indien hij gehuwd is; — uparata, indien (er) overleden is; met sandhi: anäda, indien er zijn; in OJ an; vgl yan.
+<entry xml:id="ana">ana (Ind) indien; — gräma, indien hij gehuwd is; — uparata, indien (er) overleden is; met sandhi: anäda, indien er zijn; in OJ an; vgl yan.</entry>
 anädi (Skt) beginloos ; eeuwig ; overoud ; van oudsher; OJ 303.1.11 ; 353.1b 5
 anägata (Skt) toekomstig; OJ 302410; OJ 7011 : cakawarsätita — warta- mäna.
 anak 1 (Ind) mens; z o jalan; k—an: de lieden, de mensen (v een dorp).
@@ -499,8 +533,7 @@ moederdorp van het huidige Kubu tambahan.
 bungsir (Ind) bet onz; slechts: pa—an, in 302.4b.1l: tani baryyan paka- dahèn. —.
 bungsu (Ind) het jongste kind; in 004.2b4; 3a.l: lampuran —. Uit latere ed is vooral bekend: anak wungcunira steeds met c geschreven).
 buni (Ind) verbergen; pa—ngên: 1043b.1: tani — kalulan anak 250 bunin, wuni.
-bunin (Ind) bet onz: 002.1b.2: ulih —; 1b3: tathäpi tu anak mati mata. rahin kuta, matarah amin — ‚ 1b.5: tu anak banua matarahin kuta, ana marulih —ya; 104.1b.3: lagi tyawan —; zZz Oo tarah; taban. Mis-
-schien verwant met buni (wuni ): verbergen, dus: z. verstopt houden (tijdens of na een vijandelijke inval); z o buni.
+<entry xml:id="bunin">bunin (Ind) bet onz: 002.1b.2: ulih —; 1b3: tathäpi tu anak mati mata. rahin kuta, matarah amin — ‚ 1b.5: tu anak banua matarahin kuta, ana marulih —ya; 104.1b.3: lagi tyawan —; zZz Oo tarah; taban. Misschien verwant met buni (wuni ): verbergen, dus: z. verstopt houden (tijdens of na een vijandelijke inval); z o buni.</entry>
 bufjing, z o bofijing.
 buntil (Ind) 1) wat ergens ingewikkeld wordt, of in vastgeknoopt, bv. geld in een zakdoek; 2) soort koekjes; 002.2b.3: —an 15; volgens Bal gissing — bungkilan — mülaphala : wortels en vruchten.
 bunuh (Ind) doden, slachten; —ên(ya): 357.3a6; 3b.1 ; amunuh(a) : OJ 357.3a.6.
@@ -596,8 +629,14 @@ dahan I (Ind) richtingaanduider voor de namen v windstreken (ook dang..…); 209
 dahan (dahan) II (Ind) nu, thans; opp ring antara (later); —an : OJ 305.3b.4. Dakap (Ind); 003.005 : maf.ä.3; 006 : man.ä.2.
 dakèr (Ind) een onbekend (huis)dier, in de reeks karämbo enz, volgt op
 catwäri (Skt plur v catur) vier; sinds OJ 352 in de capatha: — lokapäla. wennen dei. velae anah meet tee dende baal benden
-cheda (Skt) in OB een. gewelddadige dood gestorven zijn (in NB —= mati
-daksa (van Skt raksa) ; slechts in: pang—yan — pangraksayan: 004.3a.2; 3; i salah pati). Slechts in 002.1b-5 ; 104.3a4 : — mati; z o pusita, tarah, tida.
+<entry xml:id="cheda">
+	<form>
+		<orth>cheda</orth>
+	</form>
+	(Skt) in OB een gewelddadige dood gestorven zijn (in NB = mati salah pati). Slechts in 002.1b.5 ; 104.3a.4 : — mati; z o pusita, taraḥ, ṭida.
+</entry>
+
+daksa (van Skt raksa) ; slechts in: pang—yan — pangraksayan: 004.3a.2; 3; i 
 209.4a4; 2102b4; z o raksa.
 — 234 —
 Daksa (Skt); OJ 356: mpungkwing Lokecwara da. —.
@@ -1892,7 +1931,7 @@ pürwäbhyäsa (Skt) oude gewoonte; gebruik van oudsher; OJ 352 ,2a4. pürwasthi
 pusit (Ind) bet onz; OJ 352.4b4: tihësan ing —.
 Prasasti Bali IT 13
 — 294 —
-pusita (wel van Skt posita: p.p. van caus. van pus); dus: tot gedijen ge- bracht ; opgefokt; bezit, have; rijkdom ?; alleen 002.1b5:me pamusi- tayangna, tu anak banwa matarahir. kuta, ana marulih buninya, —na mäs mä 4 di hadiri, ana cheda ya mäâs mâ 2 pamusitayangna di hadiri.
+<entry xml:id="pusita">pusita (wel van Skt posita: p.p. van caus. van pus); dus: tot gedijen ge- bracht ; opgefokt; bezit, have; rijkdom ?; alleen 002.1b5:me pamusi- tayangna, tu anak banwa matarahir. kuta, ana marulih buninya, —na mäs mä 4 di hadiri, ana cheda ya mäâs mâ 2 pamusitayangna di hadiri.</entry>
 puspus (Ind) djagung afpeuteren; vgl ook T IV 215: s v puspus II; —an: OJ 305.4a.5; 352.2b.2.
 putir (Ind) witte duif; OJ 303.46 (in een reeks vogels). putradewatä (Skt) kind-goden; kleine goden; sinds OJ 352 in de capatha. Puträngga (Skt); 355: régap parlpahan — (Bwahan).
 putrasantäna (Skt) kinderen en nakroost; OJ 352.3a.l; 602, 603, 621; 624; 638.
@@ -2619,7 +2658,6 @@ ult (Ind) kneden; slechts 302.4a.2: mang— pamawaryyanya (text onz: mangulit, o
 		<note type="gram" xml:lang="nl">een woord, dat als “verbum” en als “prepositie” optreedt</note>
 		<note source="deepl" type="gram" xml:lang="en">a word that functions both as a ‘verb’ and as a ‘preposition’</note>
 	</noteGrp>: 
-	
 	<sense n="1">
 		1) 
 		<cit type="translation" xml:lang="nl">
@@ -2628,7 +2666,6 @@ ult (Ind) kneden; slechts 302.4a.2: mang— pamawaryyanya (text onz: mangulit, o
 				<q generatedBy="deepl">receive, obtain</q></cit>
 		</cit>
 	</sense>; 
-
 	<sense n="2">
 		2) 
 		<cit type="translation" xml:lang="nl">
@@ -2642,7 +2679,8 @@ ult (Ind) kneden; slechts 302.4a.2: mang— pamawaryyanya (text onz: mangulit, o
 	<cit type="example">
 		<lbl xml:lang="nl">
 			bovendien
-			<lbl source="deepl" type="translation" xml:lang="en">furthermore</lbl></lbl>: 
+			<lbl source="deepl" type="translation" xml:lang="en">furthermore</lbl>
+		</lbl>: 
 		<q>~ angén</q></cit>, 
 	<cit type="example">
 		<lbl xml:lang="nl">
@@ -2653,10 +2691,14 @@ ult (Ind) kneden; slechts 302.4a.2: mang— pamawaryyanya (text onz: mangulit, o
 	<cit type="example">
 		<lbl xml:lang="nl">
 			waar men wellicht aan een z.g. substantief-constructie moet denken, dus: ”s.t. is de wijze, waarop het bezit, enz wordt aangeboden, nl. ..................
-			<lbl source="deepl" type="translation" xml:lang="en">where one might think of a so-called noun phrase, i.e.: “... is the manner in which the possession, etc. is presented, namely ...................</lbl>
-		</lbl>
-		<bibl>In 003 en 004 op deze plaats</bibl>: 
-		<q>ulih!</q></cit>; 
+			<lbl source="deepl" type="translation" xml:lang="en">where one might think of a so-called noun phrase, i.e.: “... is the manner in which the possession, etc. is presented, namely ...................</lbl></lbl>
+		<bibl>In 
+			<biblScope unit="no">003</biblScope>
+			en 
+			<biblScope unit="no">004</biblScope>
+			op deze plaats</bibl>: 
+		<q>ulih!</q>
+	</cit>; 
 	<cit type="example">
 		<bibl>
 			in 
@@ -2668,9 +2710,11 @@ ult (Ind) kneden; slechts 302.4a.2: mang— pamawaryyanya (text onz: mangulit, o
 			<biblScope unit="line">4</biblScope></bibl>; 
 		<q>yan poliḥ kuda ika</q></cit>; 
 	<xr>
-		z o 
-		<ptr target="#uliḥ.2">uliḥ II</ptr></xr>...
-</entry>
+		<lbl xml:lang="nl">
+			z o
+			<lbl source="deepl" xml:lang="en">see also</lbl></lbl>
+		<ptr target="#uliḥ.2">uliḥ II</ptr>
+	</xr>...</entry>
 <entry xml:id="uliḥ.2">
 	<form>
 		<orth>uliḥ</orth>
@@ -2687,7 +2731,60 @@ ult (Ind) kneden; slechts 302.4a.2: mang— pamawaryyanya (text onz: mangulit, o
 				</cit>
 			</q>
 		</cit>
-	</sense>; 3a.2 : angkèn mâgha mahânawami di lakwan di — an; — ana: 304.4b.3 (text zeer ond); mar-—: 002.1b. 5: ana — buninya, opp ana cheda; z o bunin; pusita.
+	</sense>; 
+	<cit type="example">
+	<bibl>
+		<biblScope unit="plate">3a</biblScope>.
+		
+		<biblScope unit="line">2</biblScope></bibl>
+	: 
+	<q>angkĕn māgha mahānawamī di lakwan di ~ an</q>
+</cit>; 
+	<cit type="example">
+		<q>~ ana</q>: 
+	<bibl>
+		<biblScope unit="no">304</biblScope>
+		.
+		<biblScope unit="plate">4b</biblScope>
+		.
+		<biblScope unit="line">3</biblScope>
+	</bibl>
+	<lbl xml:lang="nl">(text zeer ond)
+		<lbl source="deepl" type="translation" xml:lang="en">text very short</lbl>
+	</lbl>
+</cit>; <cit type="example">
+	<q>mar ~</q>: 
+	<bibl>
+		<biblScope unit="no">002</biblScope>
+		.
+		<biblScope unit="plate">1b</biblScope>
+		.
+		<biblScope unit="line">5</biblScope></bibl>
+</cit>: <cit type="example">
+	<bibl>
+		<biblScope unit="no">002</biblScope>.
+		<biblScope unit="plate">1b</biblScope>
+		.
+		<biblScope unit="line">5</biblScope></bibl>: 
+	<q>ana ~ buninya</q>
+	, 
+	<xr>
+		<lbl xml:lang="nl">
+			opp
+			<lbl source="deepl" xml:lang="en">opposite</lbl></lbl>
+		<q>
+			<ptr target="#ana">ana</ptr>
+			<ptr target="#cheda">cheda</ptr>
+		</q>
+	</xr>
+</cit>; <xr>
+	<lbl xml:lang="nl">z o
+			
+		<lbl source="deepl" xml:lang="en">see also</lbl></lbl>
+	<ptr target="#bunin">bunin</ptr>
+	; 
+	<ptr target="#pusita">pusita</ptr>
+</xr>.
 </entry>
 
 umah (Ind) huis; sinds OJ 303, vervangt OB: rumah ; — ; momah ; huizen; wonen; pomahan, behuizing; in OJ 305.943: pomahumah; in OJ 353. 2b.4; 431.3a.6 : somah — per huis.

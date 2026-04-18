@@ -18,3 +18,16 @@
 	: 
 	<q>~ angén</q>
 </cit>
+
+# label for cross-reference
+	<xr>
+		<lbl xml:lang="nl">z o
+			<lbl xml:lang="en" source="deepl">see also</lbl>
+		</lbl> 
+		<ptr target="#uliḥ.2">uliḥ II</ptr>
+	</xr>
+
+# for complex form
+- replace "-" with "~"
+- treat it as <q></q> under <cit type="example"></cit>
+
