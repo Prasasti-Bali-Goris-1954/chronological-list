@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised table for the "Chronologisch register der
+  inscripties" derived from Goris’ “Prasasti Bali
+  (Inscripties voor Anak Wungçu) Band II” from 1954
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - family-names: Goris
+    given-names: Roelof
+repository-code: >-
+  https://github.com/Prasasti-Bali-Goris-1954/chronological-list
+keywords:
+  - Old Balinese
+  - Prasasti Bali
+  - Balinese
+  - Balinese Inscription
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2026-04-19'
